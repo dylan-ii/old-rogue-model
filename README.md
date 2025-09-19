@@ -1,4 +1,6 @@
-# AP-Stats-Project
+# AP Stats Project
+
+High school python based modeling of rogue wave behavior. 
 
 Project title:
 A Prediciton Model for Aggravated, Roguish Sea-States
